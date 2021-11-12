@@ -1,0 +1,31 @@
+html {
+    background-color: rgb(52, 241, 124);
+}
+#text {
+    text-align: center;
+    font-family: 'Atkinson Hyperlegible';
+    font-size: 26px;
+    color: rgb(49, 28, 167);
+}
+
+main{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(49, 28, 167);
+    font-family: 'Atkinson Hyperlegible';
+}
+.header404{
+    color: rgb(49, 28, 167);
+    
+    font-size: 48px;
+    font-family: 'Atkinson Hyperlegible';
+}
+.content404{
+    text-align: center;
+    color: rgb(49, 28, 167);
+    font-family: 'Atkinson Hyperlegible';
+    
+}
